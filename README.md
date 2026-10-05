@@ -1,12 +1,6 @@
 <div align="center">
 
-<!-- Hero Banner / Mascot -->
-<img src="/C:/Users/User/.gemini/antigravity-ide/brain/5df454a4-4ff7-4f38-ab70-bd1ee4730491/naha_mascot_hero_1791215419202.jpg" alt="FoodBridge AI Developer Mascot" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
-
-<br/><br/>
-
-<!-- Logo and Title -->
-<img src="/C:/Users/User/.gemini/antigravity-ide/brain/5df454a4-4ff7-4f38-ab70-bd1ee4730491/naha_nm_logo_1791215433946.jpg" width="120" style="border-radius: 25px; box-shadow: 0 0 20px rgba(0, 255, 255, 0.4);" />
+<div align="center">
 
 # ⚡ FoodBridge AI ⚡
 ### `[ SDG 2: Zero Hunger Platform ]`
@@ -57,21 +51,7 @@
 
 <br/>
 
----
 
-## 📸 Screenshots
-
-*Below are some glimpses into the application interface:*
-
-<div align="center">
-  <img src="/C:/Users/User/.gemini/antigravity-ide/brain/5df454a4-4ff7-4f38-ab70-bd1ee4730491/.user_uploaded/media_1791209376728.png" width="48%" style="border-radius: 10px;" />
-  <img src="/C:/Users/User/.gemini/antigravity-ide/brain/5df454a4-4ff7-4f38-ab70-bd1ee4730491/.user_uploaded/media_1791210613703.png" width="48%" style="border-radius: 10px;" />
-</div>
-<br/>
-<div align="center">
-  <img src="/C:/Users/User/.gemini/antigravity-ide/brain/5df454a4-4ff7-4f38-ab70-bd1ee4730491/.user_uploaded/media_1791210681656.png" width="48%" style="border-radius: 10px;" />
-  <img src="/C:/Users/User/.gemini/antigravity-ide/brain/5df454a4-4ff7-4f38-ab70-bd1ee4730491/.user_uploaded/media_1791211232806.png" width="48%" style="border-radius: 10px;" />
-</div>
 
 ---
 
