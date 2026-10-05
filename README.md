@@ -159,9 +159,4 @@ Three pre-trained models are included in `backend/ml/`:
 - `agent_recommendations`: Logs for Smart Rescue AI decisions
 - `audit_log`: System-wide transition events
 
----
 
-<div align="center">
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=nahamondal&color=8A2BE2&style=flat-square&label=PROJECT+VIEWS" alt="Profile Views" />
-</div>
