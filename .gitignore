@@ -1,0 +1,32 @@
+# Environment variables (CRITICAL SECURITY)
+.env
+.env.*
+!.env.example
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.pytest_cache/
+*.pyc
+__pycache__/
+venv/
+env/
+
+# Node / JS
+client/node_modules/
+client/dist/
+node_modules/
+dist/
+npm-debug.log*
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Database/Logs
+*.log
+*.sqlite3

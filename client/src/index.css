@@ -1,7 +1,15 @@
 @import "tailwindcss";
 
-:root {
-  --primary-color: #10b981; /* Emerald 500 */
+@theme {
+  --color-brand-900: #075C43; /* Primary dark green */
+  --color-brand-600: #07865B; /* Main green */
+  --color-brand-100: #EAF7EF; /* Light green */
+  --color-background: #F5F8F6; /* App background */
+  --color-navy: #172B3A; /* Dark navy text */
+  --color-muted: #6B7A86; /* Muted gray text */
+  --color-warning: #F59E0B; /* Orange for pending */
+  --color-info: #3B82F6; /* Blue for tracking */
+  --color-danger: #EF4444; /* Red for errors */
 }
 
 body {
@@ -11,5 +19,21 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #f3f4f6; /* Gray 100 */
+  background-color: var(--color-background);
+  color: var(--color-navy);
+}
+
+/* Custom scrollbar for sidebar and chat */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #cbd5e1;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #94a3b8;
 }
